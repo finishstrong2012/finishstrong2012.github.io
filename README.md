@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to my page.
 
-You can use the [editor on GitHub](https://github.com/finishstrong2012/finishstrong2012.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I'm still exploring open source development, and Github
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
